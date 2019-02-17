@@ -7,18 +7,18 @@ This is a Triangle tracker.When you key in numbers into the input boxes at the w
 * A secure working internet connection.
 * A laptop or a desktop or any device you can use to access the internet
 * A link to the website's programme which you will be recieving shortly.
-{______________________________________________________________
-| BEHAVIOUR       |           INPUT    |        OUTPUT        |
-|_________________|____________________|______________________|
-|An equilateral   |  3 , 3 , 3         | Equilatera           |
-|  Triangle       |                    |     Triangle         |
-|_________________|____________________|______________________|  
-|A scalene        |   1 , 2 , 3        |  Scalene             | 
-|   Triangle      |                    |    Triangle          |  
-|_________________|____________________|______________________|
-| An isosceles    |   2 , 2, 4         |   Isosceles          |  
-|    Triangle     |                    |     Triangle         |  
-|_________________|____________________|______________________|
+{_____________________________________________________________\
+\ BEHAVIOUR       \           INPUT    \        OUTPUT        \
+\_________________\____________________\______________________\
+\An equilateral   \  3 , 3 , 3         \ Equilatera           \
+\  Triangle       \                    \    Triangle          \
+\_________________\____________________\_____________________ \  
+\A scalene        \   1 , 2 , 3        \  Scalene             \ 
+\   Triangle      \                    \    Triangle          \  
+\_________________\____________________\______________________\
+\ An isosceles    \   2 , 2, 4         \   Isosceles          \ 
+\    Triangle     \                    \     Triangle         \
+\_________________\____________________\______________________\
 }
 ## Known Bugs
 There are no issues or bugs encountered yet while coming up with the programme but incase of anything,feel free to contact the devoloper through johnvictor0002@gmail.com. 
