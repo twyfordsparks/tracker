@@ -7,9 +7,9 @@ This is a Triangle tracker.When you key in numbers into the input boxes at the w
 * A secure working internet connection.
 * A laptop or a desktop or any device you can use to access the internet
 * A link to the website's programme which you will be recieving shortly.
-{_____________________________________________________________\
+{-----------------\---------------------\----------------------\
 \ BEHAVIOUR       \           INPUT    \        OUTPUT        \
-\_________________\____________________\______________________\
+\-----------------\---------------------\---------------------\
 \An equilateral   \  3 , 3 , 3         \ Equilatera           \
 \  Triangle       \                    \    Triangle          \
 \_________________\____________________\_____________________ \  
