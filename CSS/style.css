@@ -3,4 +3,9 @@ h1 {
 }
 .class {
     background-color: aquamarine;
+    width: 400px;
+    float: right;
+}
+.john {
+text-align: center;
 }
