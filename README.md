@@ -12,9 +12,8 @@ This is a Triangle tracker.When you key in numbers into the input boxes at the w
 ## Project's BDD
 {                                                            
 
-
   | BEHAVIOUR      |            INPUT     |       OUTPUT        |
-  |   :---|            :---          |         :---             |
+  |   :---         |            :---      |         :---        |
   |An equilateral  |   3 , 3 , 3          |Equilatera           |
   |  Triangle      |                      |   Triangle          |
   |                |                      |                     |  
@@ -23,7 +22,7 @@ This is a Triangle tracker.When you key in numbers into the input boxes at the w
   |                |                      |                     |
   | An isosceles   |    2 , 2, 4          |  Isosceles          |
   |    Triangle    |                      |    Triangle         |
-  |                |                      |                     |
+
 }
 ## Known Bugs
 There are no issues or bugs encountered yet while coming up with the programme but incase of anything,feel free to contact the devoloper through johnvictor0002@gmail.com.
