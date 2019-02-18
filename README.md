@@ -14,7 +14,7 @@ This is a Triangle tracker.When you key in numbers into the input boxes at the w
 
   | BEHAVIOUR      |            INPUT     |       OUTPUT        |
   |   :---         |            :---      |         :---        |
-  |An equilateral  |   3 , 3 , 3          |Equilatera           |
+  |An equilateral  |   3 , 3 , 3          |equilateral          |
   |  Triangle      |                      |   Triangle          |
   |                |                      |                     |  
   |A scalene       |    1 , 2 , 3         | Scalene             |
