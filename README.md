@@ -14,16 +14,16 @@ This is a Triangle tracker.When you key in numbers into the input boxes at the w
 
 
   | BEHAVIOUR      |            INPUT     |       OUTPUT        |
-  |----------------|----------------------|---------------------|
+  |                |                      |                     |
   |An equilateral  |   3 , 3 , 3          |Equilatera           |
   |  Triangle      |                      |   Triangle          |
-  |----------------|----------------------|---------------------|  
+  |                |                      |                     |  
   |A scalene       |    1 , 2 , 3         | Scalene             | 
   |   Triangle     |                      |   Triangle          |  
-  |----------------|----------------------|---------------------|
+  |                |                      |                     |
   | An isosceles   |    2 , 2, 4          |  Isosceles          |
   |    Triangle    |                      |    Triangle         |
-  |----------------|----------------------|---------------------|
+  |                |                      |                     |
 }
 ## Known Bugs
 There are no issues or bugs encountered yet while coming up with the programme but incase of anything,feel free to contact the devoloper through johnvictor0002@gmail.com. 
