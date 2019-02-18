@@ -2,15 +2,15 @@
 #### The triangle tracker is a programme which simply tells you the type of triangle formed, 17,02,2019
 #### By John Victor Njoroge Karanja
 ## Description
-This is a Triangle tracker.When you key in numbers into the input boxes at the website and click the 'submit' key,a notification will appear at vthe top middle part of the screen informing you which type of a triangle is formed by the numbers you keyed in.
+This is a Triangle tracker.When you key in numbers into the input boxes at the website and click the 'submit' key,a notification will appear at the top middle part of the screen informing you which type of a triangle is formed by the numbers you keyed in.
 ## Setup/Installation Requirements
 * A secure working internet connection.
 * A laptop or a desktop or any device you can use to access the internet
-* A link to the website's programme which you will be recieving shortly.
+* A link to the website's programme which you will be recieving shortly.[link](https://twyfordsparks.github.io/tracker/)
 
 
 ## Project's BDD
-{                                                            
+
 
   | BEHAVIOUR      |            INPUT     |       OUTPUT        |
   |   :---         |            :---      |         :---        |
@@ -23,7 +23,7 @@ This is a Triangle tracker.When you key in numbers into the input boxes at the w
   | An isosceles   |    2 , 2, 4          |  Isosceles          |
   |    Triangle    |                      |    Triangle         |
 
-}
+
 ## Known Bugs
 There are no issues or bugs encountered yet while coming up with the programme but incase of anything,feel free to contact the devoloper through johnvictor0002@gmail.com.
 ## Technologies Used
